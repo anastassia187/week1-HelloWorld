@@ -1,0 +1,15 @@
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.exe
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.deps.json
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.runtimeconfig.json
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.dll
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\ref\StringInterpolation.dll
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\bin\Debug\net5.0\StringInterpolation.pdb
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.dll
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\ref\StringInterpolation.dll
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.pdb
+C:\Users\Ivan\source\repos\HelloWorld\StringInterpolation\obj\Debug\net5.0\StringInterpolation.genruntimeconfig.cache
